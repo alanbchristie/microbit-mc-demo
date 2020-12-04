@@ -2,7 +2,7 @@ makecode:
   target: microbit
   platform: microbit
   home_url: https://makecode.microbit.org/
-theme: jekyll-theme-architect
+theme: jekyll-theme-hacker
 include:
   - assets
   - README.md
