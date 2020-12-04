@@ -1,5 +1,5 @@
 {
-    "name": "demo",
+    "name": "hf-battery-tester",
     "description": "",
     "dependencies": {
         "core": "*",
